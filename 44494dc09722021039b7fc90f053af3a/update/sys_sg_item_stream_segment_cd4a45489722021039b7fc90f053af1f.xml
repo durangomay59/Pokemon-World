@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_sg_item_stream_segment">
+    <sys_sg_item_stream_segment action="INSERT_OR_UPDATE">
+        <empty_state/>
+        <interleave_order_direction>asc</interleave_order_direction>
+        <max_offline_rows>500</max_offline_rows>
+        <name>Pokemon Item Stream Segment</name>
+        <order>0</order>
+        <screen display_value="Pokemons">814a45489722021039b7fc90f053af1e</screen>
+        <sys_class_name>sys_sg_item_stream_segment</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2024-05-28 16:29:07</sys_created_on>
+        <sys_id>cd4a45489722021039b7fc90f053af1f</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>Pokemon Item Stream Segment</sys_name>
+        <sys_package display_value="Pokemon World" source="x_1433874_pokemon">44494dc09722021039b7fc90f053af3a</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Pokemon World">44494dc09722021039b7fc90f053af3a</sys_scope>
+        <sys_update_name>sys_sg_item_stream_segment_cd4a45489722021039b7fc90f053af1f</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2024-05-28 16:29:07</sys_updated_on>
+    </sys_sg_item_stream_segment>
+</record_update>

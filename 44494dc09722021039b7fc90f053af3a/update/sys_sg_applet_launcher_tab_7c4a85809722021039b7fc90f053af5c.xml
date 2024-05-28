@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_sg_applet_launcher_tab">
+    <sys_sg_applet_launcher_tab action="INSERT_OR_UPDATE">
+        <active>true</active>
+        <applet_launcher display_value="Pokemon World">f84a85809722021039b7fc90f053af5b</applet_launcher>
+        <icon display_value="Home Pokemon World">bc4a85809722021039b7fc90f053af5c</icon>
+        <label>Pokemon World</label>
+        <sys_class_name>sys_sg_applet_launcher_tab</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2024-05-28 16:29:06</sys_created_on>
+        <sys_id>7c4a85809722021039b7fc90f053af5c</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>Pokemon World</sys_name>
+        <sys_package display_value="Pokemon World" source="x_1433874_pokemon">44494dc09722021039b7fc90f053af3a</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Pokemon World">44494dc09722021039b7fc90f053af3a</sys_scope>
+        <sys_update_name>sys_sg_applet_launcher_tab_7c4a85809722021039b7fc90f053af5c</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2024-05-28 16:29:06</sys_updated_on>
+    </sys_sg_applet_launcher_tab>
+</record_update>
